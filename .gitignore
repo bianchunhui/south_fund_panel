@@ -1,0 +1,20 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- WorkBuddy 本地项目记忆（含分析结论/约定，不进仓库）----
+.workbuddy/
+
+# ---- 运行时日志 ----
+start_panel.log
+
+# ---- 本地数据库：南向持股个人数据（43MB，可由 backfill_history.py / Tab5 下载重建）----
+*.db
+
+# ---- 探索性 API 探针脚本（非项目主体， clutter）----
+check_hsgt_*.py
+
+# ---- 操作系统/编辑器 ----
+.DS_Store
+Thumbs.db
