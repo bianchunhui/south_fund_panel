@@ -1,0 +1,11 @@
+# 港股通(南向)反势选股面板 - Python 依赖
+# 测试环境：Python 3.13 managed venv
+akshare>=1.18
+pandas>=3.0
+numpy>=2.4
+scipy>=1.18
+statsmodels>=0.14
+matplotlib>=3.9
+plotly>=6.0
+streamlit>=1.59
+requests>=2.31
